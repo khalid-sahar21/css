@@ -1,0 +1,21 @@
+img{
+    height: 200px;
+    width: 200px;
+    border: 10px solid #333; 
+    border-radius: 30px;
+    
+
+    color: aqua;
+}
+h1{
+    color: rgb(213, 134, 16);
+}
+.circular-image {
+    width: 150px; /* Set the width of the circular image */
+    height: 150px; /* Set the height of the circular image */
+    border-radius: 50%; /* Make the image circular by setting border radius to 50% */
+    object-fit: cover; /* Maintain aspect ratio and cover the circular area */
+  }
+  section{
+    border: 1px solid #b68b8b;
+  }
